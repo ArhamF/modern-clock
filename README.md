@@ -13,6 +13,9 @@
 
 Elegant Clock is a customizable, interactive clock application built with React and Framer Motion. It offers various clock face styles and marker options, providing a sleek and modern timekeeping experience.
 
+![image](https://github.com/user-attachments/assets/2a710e6c-0a97-45f1-8331-421cec916318)
+
+
 ## Features
 
 - Multiple clock face styles (Classic, Roman, Minimal, Dots, Modern)
